@@ -6,3 +6,6 @@ The need for modifying these data is copying a set of data into same TPS by chan
 
 Easy to use the program and screenshot given below.
 
+<img width="690" height="589" alt="image" src="https://github.com/user-attachments/assets/b29fe388-ed4e-48b9-86d8-72a8801a1b3e" />
+
+
