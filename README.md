@@ -9,3 +9,6 @@ Easy to use the program and screenshot given below.
 <img width="690" height="589" alt="image" src="https://github.com/user-attachments/assets/b29fe388-ed4e-48b9-86d8-72a8801a1b3e" />
 
 
+The Study/Series ID shown in the picture is Hexadecimal only as a sample but when the Generate New UID is Checked, new UID using Numerals is generated. In the end, all the CT, Dose, Plan and Structure file appears on a single patient itself.
+
+CT and Plans from different patients can be merged as a Single patient too but be careful about the end use.
